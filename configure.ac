@@ -34,7 +34,7 @@ LT_PREREQ([2.2])
 LT_INIT([disable-static win32-dll])
 
 #shared library versioning
-WOLFSSL_LIBRARY_VERSION=23:0:0
+WOLFSSL_LIBRARY_VERSION=9:0:6
 #                        | | |
 #                 +------+ | +---+
 #                 |        |     |
